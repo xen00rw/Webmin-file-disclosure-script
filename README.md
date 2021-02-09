@@ -1,4 +1,4 @@
-# Webmin File Disclosure Exploit
+# Webmin File Disclosure Exploit Script (CVE 2006-3392)
 
 First off all, Hello guys 
 
@@ -13,19 +13,30 @@ Use the package manager to install de requirements.
 ```bash
 $ pip install requirements.txt
 ```
-I've created this tool to explore the vulnerability of Webmin File Disclosure. ())
-This vuln cause a flaw in /unauthenticated of an LFI
+## Usage
+
+```bash
+$ python3 exploit.py -r 192.168.0.1 -x 10000 -y HTTP -z /etc/passwd
+
+-r = hostname or ip address 
+-x = port of webmin service (Default: 10000)
+-y = protocol of the host (Default: HTTP)
+-z = file to download from the host (Default: /etc/passwd)
+```
+
+## P.S.
 
 It's not too complex to use, but it'll help you automating and getting files easier from the server.
 
 I hope it helps.
 
-
-Type: $python3 exploit.py to see how we use it
-
 Thanks !!<
 
 From you Friend, Xen00rw
 
+## References
 
-============================
+https://nvd.nist.gov/vuln/detail/CVE-2006-3392
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2006-3392
+https://www.cvedetails.com/cve/CVE-2006-3392/
+
