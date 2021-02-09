@@ -37,8 +37,8 @@ From you Friend, Xen00rw
 ## References
 
 https://nvd.nist.gov/vuln/detail/CVE-2006-3392
--
+
 https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2006-3392
--
+
 https://www.cvedetails.com/cve/CVE-2006-3392/
--
+
