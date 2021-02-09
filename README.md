@@ -1,4 +1,5 @@
-# Webmin File Disclosure Exploit Script (CVE 2006-3392)
+# Webmin File Disclosure Exploit Script 
+# (CVE 2006-3392)
 
 First off all, Hello guys 
 
