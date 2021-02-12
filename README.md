@@ -1,5 +1,9 @@
 # Webmin File Disclosure Exploit (CVE 2006-3392)
 
+![created](https://img.shields.io/badge/platform-Linux-blue)
+![language](https://img.shields.io/badge/language-Python-blue)
+![creation date](https://img.shields.io/badge/creation_date-02/09/2021-blue)
+
 First off all, Hello guys 
 
 I've created this tool to pratice about automating my own tasks and training programming languages.
