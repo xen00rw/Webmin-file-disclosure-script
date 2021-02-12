@@ -1,7 +1,7 @@
 # Webmin File Disclosure Exploit (CVE 2006-3392)
 
-![created](https://img.shields.io/badge/platform-Linux-blue)
-![language](https://img.shields.io/badge/language-Python-blue)
+![created](https://img.shields.io/badge/platform-linux-blue)
+![language](https://img.shields.io/badge/language-python-blue)
 ![creation date](https://img.shields.io/badge/creation_date-02/09/2021-blue)
 
 First off all, Hello guys 
