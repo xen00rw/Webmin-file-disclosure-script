@@ -2,7 +2,6 @@
 
 ![created](https://img.shields.io/badge/platform-linux-blue)
 ![language](https://img.shields.io/badge/language-python-blue)
-![creation date](https://img.shields.io/badge/creation_date-02/09/2021-blue)
 [![Twitter](https://aleen42.github.io/badges/src/twitter.svg)](https://twitter.com/willxenoo)
 
 
